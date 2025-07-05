@@ -11,7 +11,7 @@ import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 import hospitalData from '@/data/hospitalData.json';
 import { HospitalData } from '@/types/hospital';
-import Doctors from '@/components/doctors'; 
+import Doctors from '@/components/Doctors'; 
 export default function Home() {
   const data = hospitalData as HospitalData;
 

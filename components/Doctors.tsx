@@ -31,7 +31,7 @@ const Doctors: React.FC<DoctorsProps> = ({ data }) => {
 
         {/* Doctors Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
-          {data.doctors.map((doctor, index) => (
+          {data.doctors?.map((doctor, index) => (
             <motion.div
               key={doctor.id}
               initial={{ opacity: 0, y: 20 }}
