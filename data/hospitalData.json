@@ -1,0 +1,119 @@
+{
+  "name": "SHRIRAM NEURO-SPINE & SKIN CENTRE",
+  "tagline": "Compassionate Healthcare You Can Trust",
+  "description": "SHRIRAM NEURO-SPINE & SKIN CENTRE is a leading specialty healthcare centre with a strong reputation for excellence in neuro, spine, and dermatological care. Our experienced doctors and advanced medical technology ensure that every patient receives personalized, high-quality treatment in a compassionate and professional environment.",
+  "appointmentUrl": "https://yourbookingapp.com/sunrise",
+  "logo": "🏥",
+  "hero": {
+    "title": "Your Health, Our Priority",
+    "subtitle": "Experience world-class healthcare with our team of expert doctors and cutting-edge medical technology.",
+    "backgroundImage": "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg"
+  },
+  "services": [
+  {
+    "id": 1,
+    "title": "Spine Care",
+    "description": "Comprehensive treatment for back and neck pain, slipped disc, sciatica, and spinal injuries with advanced surgical and non-surgical options.",
+    "icon": "Spine"
+  },
+  {
+    "id": 2,
+    "title": "Neurology",
+    "description": "Expert care for brain, nerve, and neurological disorders including stroke, epilepsy, migraine, and neuropathies.",
+    "icon": "Brain"
+  },
+  {
+    "id": 3,
+    "title": "Dermatology",
+    "description": "Advanced skin care for acne, eczema, pigmentation, hair loss, and other dermatological conditions.",
+    "icon": "Skin"
+  },
+  {
+    "id": 4,
+    "title": "Neuro-Rehabilitation",
+    "description": "Personalized neuro-physiotherapy and rehabilitation programs for patients recovering from neurological and spinal conditions.",
+    "icon": "Rehabilitation"
+  },
+  {
+    "id": 5,
+    "title": "Cosmetic Dermatology",
+    "description": "Skin rejuvenation, laser treatments, anti-aging solutions, and cosmetic procedures for improved appearance and confidence.",
+    "icon": "Sparkles"
+  },
+  {
+    "id": 6,
+    "title": "Diagnostics & Imaging",
+    "description": "High-precision diagnostics including MRI, CT scan, EMG/NCV, skin biopsy, and other advanced tests.",
+    "icon": "Microscope"
+  }
+],
+  "ratings": {
+    "stars": 5,
+    "totalReviews": 583,
+    "googleReviewLink": "https://maps.app.goo.gl/dcwBwLzTzUUGiY9P7",
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Shivam Pandey",
+        "review": "Dr . Snehlata mam it's my personal experience what I had got by there .I so thankful to Snehlata mam she having a very fine working skills in her surgery ,treatment , consultant and very helpful nature and also thanks to hospital staff for good behaviour and gesture",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Disha Yadav",
+        "review": "Better treatment and good facilities.Doctor like a friend No any rude behaviour with staffs by doctor",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Amit Sharma",
+        "review": "As a fellow physician, I can confidently say this hospital maintains the highest standards of medical care and patient safety.",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/612608/pexels-photo-612608.jpg"
+      }
+    ]
+  },
+  "trustStats": {
+    "yearsOfExperience": 20,
+    "happyPatients": 50000,
+    "expertDoctors": 40,
+    "successRate": 98
+  },
+  "whyChooseUs": [
+    {
+      "title": "ISO Certified",
+      "description": "International quality standards",
+      "icon": "Award"
+    },
+    {
+      "title": "24x7 Emergency",
+      "description": "Round-the-clock medical care",
+      "icon": "Clock"
+    },
+    {
+      "title": "Advanced Labs",
+      "description": "State-of-the-art diagnostic facilities",
+      "icon": "Microscope"
+    },
+    {
+      "title": "NABH Accredited",
+      "description": "National healthcare quality certification",
+      "icon": "Shield"
+    }
+  ],
+  "contact": {
+    "phone": "+91-9580514142",
+    "email": "info@gmail.com",
+    "address": "D-11, Ganj, SA-10/15, near Thai Temple(Standing Buddha statue, Sarnath, Varanasi, Uttar Pradesh 221007",
+    "mapLink": "https://maps.app.goo.gl/dcwBwLzTzUUGiY9P7",
+    "hours": "24/7 Emergency | OPD: 8AM - 8PM"
+  },
+  "social": {
+    "facebook": "https://facebook.com/",
+    "twitter": "https://twitter.com/",
+    "instagram": "https://instagram.com/",
+    "linkedin": "https://linkedin.com/company/"
+  }
+}
