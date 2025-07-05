@@ -26,6 +26,7 @@ const Navbar: React.FC<NavbarProps> = ({ data }) => {
     { name: 'Home', href: '#home' },
     { name: 'About', href: '#about' },
     { name: 'Services', href: '#services' },
+    { name: 'Our Doctors', href: '#doctors' },
     { name: 'Reviews', href: '#reviews' },
     { name: 'Contact', href: '#contact' },
   ];
@@ -50,7 +51,7 @@ const Navbar: React.FC<NavbarProps> = ({ data }) => {
             <div className="text-2xl">{data.logo}</div>
             <div>
               <h1 className="text-xl font-bold text-gray-900">{data.name}</h1>
-              <p className="text-xs text-gray-600 hidden md:block">{data.tagline}</p>
+              <p className="text-xs text-gray-600  md:block">{data.tagline}</p>
             </div>
           </motion.div>
 
@@ -70,13 +71,13 @@ const Navbar: React.FC<NavbarProps> = ({ data }) => {
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center space-x-4">
-            <a
+            {/* <a
               href={`tel:${data.contact.phone}`}
               className="flex items-center text-emerald-600 hover:text-emerald-700 font-medium"
             >
               <Phone className="w-4 h-4 mr-2" />
               {data.contact.phone}
-            </a>
+            </a> */}
             <motion.a
               href={data.appointmentUrl}
               whileHover={{ scale: 1.05 }}

@@ -46,7 +46,23 @@
     "description": "High-precision diagnostics including MRI, CT scan, EMG/NCV, skin biopsy, and other advanced tests.",
     "icon": "Microscope"
   }
-],
+],"doctors": [
+  {
+    "id": 1,
+    "name": "Dr. VIJAY KUMAR",
+    "specialization": "Senior Neurosurgeon & Spine Specialist",
+    "photo": "https://lh3.googleusercontent.com/p/AF1QipPiTeopzc9YMRsWxQ0pg72aXXJuFPZSGRPxb0PT=s680-w680-h510-rw",
+    "bio": "Dr. Vijay Kumar is a highly experienced neurosurgeon with over 10 years of practice in treating complex brain and spine conditions. He specializes in minimally invasive spinal surgeries and neuro-rehabilitation."
+  },
+  {
+    "id": 2,
+    "name": "Dr. SNEH LATA",
+    "specialization": "Senior Dermatologist & Cosmetologist",
+    "photo": "https://lh3.googleusercontent.com/p/AF1QipOybLeUwIAnOp8Nj1I2C7W4x9s8lctNrP4XCKL3=s680-w680-h510-rw",
+    "bio": "Dr. Sneh Lata brings deep expertise in dermatology, with a focus on cosmetic procedures, skin diseases, and advanced laser treatments. She is known for her compassionate care and clinical precision."
+  }
+]
+,
   "ratings": {
     "stars": 5,
     "totalReviews": 583,

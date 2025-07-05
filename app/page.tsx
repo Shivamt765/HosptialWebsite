@@ -11,7 +11,7 @@ import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 import hospitalData from '@/data/hospitalData.json';
 import { HospitalData } from '@/types/hospital';
-
+import Doctors from '@/components/doctors'; 
 export default function Home() {
   const data = hospitalData as HospitalData;
 
@@ -21,6 +21,7 @@ export default function Home() {
       <Hero data={data} />
       <About data={data} />
       <Services data={data} />
+      <Doctors data={hospitalData} />
       <WhyChooseUs data={data} />
       <Reviews data={data} />
       <Contact data={data} />
