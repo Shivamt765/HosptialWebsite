@@ -36,6 +36,9 @@ export interface HospitalData {
     instagram: string;
     linkedin: string;
   };
+
+  // ✅ Add this 👇
+  doctors: Doctor[];
 }
 
 export interface Service {
@@ -57,4 +60,13 @@ export interface WhyChooseUsItem {
   title: string;
   description: string;
   icon: string;
+}
+
+// ✅ Add this👇
+export interface Doctor {
+  id: number;
+  name: string;
+  photo: string;
+  specialization: string;
+  bio: string;
 }
